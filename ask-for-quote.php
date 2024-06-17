@@ -1,9 +1,9 @@
 <?php
 /**
- * Plugin Name: Ask for Quote for Out of Stock Products
- * Description: Displays an "Ask for Quote" button on out-of-stock products, allowing customers to submit inquiries even for variable products.
+ * Plugin Name: Sam Request a Quote for WooCommerce
+ * Description: Boost your WooCommerce store's sales with our WordPress plugin that adds an "Ask for Quote" button to out-of-stock products and items with no listed price. Compatible with both simple and variable products, this plugin allows customers to effortlessly submit inquiries and request quotes, transforming potential interest into valuable sales leads. Enhance customer engagement and never miss a sales opportunity again.
  * Version: 1.0
- * Author: CENTRAGO.ORG
+ * Author: Husamsaleh
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
